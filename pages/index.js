@@ -7,8 +7,8 @@ export default function Home() {
   return (
     <>
       <main className={`${styles.main}`}>
-        <VerticalChart />
-        <HorizontalChart/>
+        /*<VerticalChart />*/
+        /*<HorizontalChart/>*/
         <PieChart/>
       </main>
     </>
