@@ -8,8 +8,6 @@ export default function Home() {
     <>
       <main className={`${styles.main}`}>
         <PieChart/>
-        <HorizontalChart/>
-        <VerticalChart/>
       </main>
     </>
   );
